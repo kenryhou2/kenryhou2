@@ -1,1 +1,1 @@
-<figure><embed src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/59bfcca0-eb81-4314-bc40-9f0cc429e256.svg"></embed></figure>
+!WakaTimeStats[https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg]: # Path: README.md
