@@ -1,4 +1,4 @@
-!WakaTimeStats[https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg]: # Path: README.md
+
 
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenryhou2)](https://github.com/kenryhou2/github-readme-stats)
 
@@ -53,15 +53,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 10 December 2024
 
-Total Time: 2,654 hrs 5 mins
-
-C++                701 hrs 45 mins ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Python             564 hrs 59 mins █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-C                  350 hrs 13 mins ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-TeX                226 hrs 1 min   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Java               97 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->
@@ -95,20 +87,25 @@ Java               97 hrs 14 mins  █░░░░░░░░░░░░░░
 
 <br>
 
-### Machine Learning
+<!-- ### Machine Learning
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
-<br>
+<br> -->
 
-### My Operating System by frequency <pr>
+### Operating Systems <pr>
 
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
+<!-- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  />  -->
 
+
+
+<!-- !WakaTimeStats[https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg]: # Path: README.md -->
 
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
 <p align="center">
-    <img src="https://wakatime.com/share/@Edward47Guo/9b4a7376-967c-4f01-af14-50727a4b3203.svg" width="60%" align="center">
+    <img src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg" width="60%" align="center">
 </p>
 <!--Color (172,172,255) #ACACFF-->
 <br>
