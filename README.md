@@ -4,6 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenryhou2&layout=compact)](https://github.com/kenryhou2)
 
+
+Template: https://github.com/anuraghazra/github-readme-stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenryhou2&hide=javascript,html,python,Typescript,CSS&langs_count=8)
+![Henry's Github stats](https://github-readme-stats.vercel.app/api?username=kenryhou2)
+
 <!--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-->
 
 <!--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-->
@@ -95,8 +100,7 @@ Here are some ideas to get you started:
 
 ### Operating Systems <pr>
 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 <!-- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  />  -->
 
 
@@ -105,7 +109,7 @@ Here are some ideas to get you started:
 
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
 <p align="center">
-    <img src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg" width="60%" align="center">
+    <img src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/f641635e-a005-45e6-89b8-3c200690f901.svg" width="60%" align="center">
 </p>
 <!--Color (172,172,255) #ACACFF-->
 <br>
