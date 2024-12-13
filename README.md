@@ -10,13 +10,10 @@
 
 ## Welcome to my Github! 👋
 
-```
-
 ### Contact Me
   - Email: hkou@andrew.cmu.edu
   - LinkedIn: &nbsp;&nbsp; <a href="https://www.linkedin.com/in/henrykou/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Henry Kou | LinkedIn" width="14px"/></a>
-  
-```
+  - Website: &nbsp;&nbsp; <a href="https://kenryhou2.github.io/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/website.svg" alt="Henry Kou | Website" width="14px"/></a>
 
 <br>
 
@@ -31,20 +28,9 @@
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=DDA0DD) -->
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&color=F7AF1E)
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#" style="height:20px; border-radius: 0.3125em;"  /> -->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:20px; border-radius: 0.3125em;"  />
-<!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO" title="Golang" style="height:20px; border-radius: 0.3125em;"  /> -->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="height:20px; border-radius: 0.3125em;"  />
-<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> 
-<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&color=00008B) -->
-<!-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837) -->
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-<!-- <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo" title="Mongo" style="height:20px; border-radius: 0.3125em;"  /> -->
-<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
 
 <br>
 
