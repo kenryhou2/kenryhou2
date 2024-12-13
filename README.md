@@ -26,9 +26,7 @@
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=DDA0DD) -->
-![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&color=F7AF1E)
-<!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" title="C#" style="height:20px; border-radius: 0.3125em;"  /> -->
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  />
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&color=F7AF1E)<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  /><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
 
@@ -45,13 +43,11 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 <!-- <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  />  -->
 
-
-
 <!-- !WakaTimeStats[https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/92aaa94e-9136-46f6-b5bd-891dce132ef0.svg]: # Path: README.md -->
 
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
 <p align="center">
-    <img src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/f641635e-a005-45e6-89b8-3c200690f901.svg" width="60%" align="center">
+    <img src="https://wakatime.com/share/@ea210b30-ed86-4643-a00c-1a369bb5f0f9/a8a097f3-5079-4c57-92e8-15afaafddade.svg" width="60%" align="center">
 </p>
 <!--Color (172,172,255) #ACACFF-->
 <br>
