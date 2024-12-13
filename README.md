@@ -11,11 +11,11 @@
 ## Welcome to my Github! 👋
 
 ### About Me
-  - #### 🎓 &nbsp; I am an Master's student at Carnegie Mellon University studying Robotics.
+  - #### 🎓 &nbsp; I am currently a Master's student at Carnegie Mellon University studying Robotics. 
   - #### 🤖 &nbsp; I am currently learning about State Estimation and Optimal Control.
-  - #### 📚 &nbsp; I graduated from the University of California, Los Angeles with a B.S. in Electrical Engineering.
+  - #### 📚 &nbsp; I graduated from the University of California, Los Angeles in 2021 with a B.S. in Electrical Engineering.
   - #### 📧 &nbsp; LinkedIn: &nbsp;&nbsp; <a href="https://www.linkedin.com/in/henrykou/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Henry Kou | LinkedIn" width="14px"/></a>
-  - #### 🌐 &nbsp; Check out my website for more information about me and my projects. <a href="https://kenryhou2.github.io/">
+
 <br>
 
 <br>
